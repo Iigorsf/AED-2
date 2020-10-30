@@ -1,0 +1,6 @@
+ios::app ? Não trunca o arquivo, só permite escrever no fim.
+ios::ate ? Abre o arquivo, posiciona a cabeça de leitura/escrita na posição final. Permite mover a cabeça de leitura/escrita.
+ios::binary ? Abre o arquivo em modo binário (indica apenas se utiliza \n ou \r\n em final de linha)
+ios::in ? Abre para leitura.
+ios::out ? Abre para escrita.
+ios::trunc ? Trunca (apaga o conteúdo) o arquivo.
